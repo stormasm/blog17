@@ -39,7 +39,9 @@ My career has been wide and varied but over the past couple of years I have been
 
 Consensus in Etcd is based on a recent Stanford PhD thesis called Raft which enables replicated state machines to come to agreement on values you deem as important. Likewise, P2P systems in blockchain based systems use Proof of Stake like voting systems and also Proof of Work to agree on values that need to be persisted long term in both the Bitcoin and Ethereum blockchains.
 
-In the past, I worked on the Rkt spec which has integrations with Hashicorp's Nomad and Kubernetes.  I am also familiar in my past work with the internal workings of Docker via Systemd.
+In the past, I worked on the
+[Rkt spec](https://github.com/rkt/rkt) 
+which has integrations with Hashicorp's Nomad and Kubernetes.  I am also familiar in my past work with the internal workings of Docker via Systemd.
 
 ---
 
