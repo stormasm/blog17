@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Short Template From Which to Start"
+title: "Blockchain: Ethereum and Noms"
 author: Michael Angerman
 editor: Storm
 rights: Public Domain

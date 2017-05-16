@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Short Template From Which to Start"
+title: "My Bio"
 author: Michael Angerman
 editor: Storm
 rights: Public Domain

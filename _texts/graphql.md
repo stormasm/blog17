@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Short Template From Which to Start"
+title: "Graphql: A Query Language for your API"
 author: Michael Angerman
 editor: Storm
 rights: Public Domain

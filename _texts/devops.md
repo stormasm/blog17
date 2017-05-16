@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "Short Template From Which to Start"
+title: "Devops: Docker, Kubernetes, Hashicorp"
 author: Michael Angerman
 editor: Storm
 rights: Public Domain
