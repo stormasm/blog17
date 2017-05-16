@@ -43,3 +43,6 @@ storage and retrieval systems.
 ---
 
 ## References
+
+[dgraph](https://github.com/dgraph-io/dgraph)
+[cayley](https://github.com/cayleygraph/cayley)
