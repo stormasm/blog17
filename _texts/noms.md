@@ -20,8 +20,7 @@ My background is in data [retrieval, search, storage, and visualization].  When 
 [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) in 2008
 it was mainly used as a new accounting methodology to guarantee that the transactions
 that were listed was a public ledger for all to see.  Now the concept has branched out
-to many other interesting areas of research. The products that are evolving from
-there are fascinating and relevant, I will attempt to outline a few of those in this post.
+to many other interesting areas of research. The products that are evolving are fascinating and relevant, I will attempt to outline a few of those in this post.
 
 ---
 
