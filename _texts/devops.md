@@ -9,10 +9,7 @@ publication-date: 2017
 toc:
 - Title Page
 - Chapter I
-- Chapter II
-- Chapter III
-- Appendix
-- A Parody
+- References
 ---
 
 ---
