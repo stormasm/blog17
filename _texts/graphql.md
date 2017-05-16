@@ -5,7 +5,7 @@ author: Michael Angerman
 editor: Storm
 rights: Public Domain
 source: Arcadian Group
-publication-date: 2016
+publication-date: 2017
 toc:
 - Title Page
 - Chapter I
