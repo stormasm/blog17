@@ -95,10 +95,10 @@ I have often been utterly astonished, since I came to the north, to find persons
 
 ---
 
-
 ## CHAPTER III
 
 Colonel Lloyd kept a large and finely cultivated garden, which afforded almost constant employment for four men, besides the chief gardener, (Mr. M'Durmond.) This garden was probably the greatest attraction of the place. During the summer months, people came from far and
+
 ---
 
 ## APPENDIX
