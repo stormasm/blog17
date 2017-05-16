@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: "My Bio"
+title: "My Resume and Bio"
 author: Michael Angerman
 editor: Storm
 rights: Public Domain
