@@ -2,17 +2,14 @@
 layout: narrative
 title: "Blockchain: Ethereum and Noms"
 author: Michael Angerman
-editor: Storm
+editor: Michael Angerman
 rights: Public Domain
 source: Arcadian Group
 publication-date: 2017
 toc:
 - Title Page
-- Chapter I
-- Chapter II
-- Chapter III
-- Appendix
-- A Parody
+- Section I
+- References
 ---
 
 ---
@@ -52,7 +49,7 @@ Consensus in Etcd, which is used by the popular deployment package Kubernetes, i
 
 ---
 
-[References to **Concepts** mentioned above...]
+## References
 
 [Btcsuite](https://github.com/btcsuite)  
 [Decred](https://github.com/decred)  
